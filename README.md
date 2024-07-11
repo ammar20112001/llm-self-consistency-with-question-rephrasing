@@ -1,4 +1,4 @@
-# LLM Self-Consistency w/ Question Rephrasing
+# Math Solving LLM | Self-Consistency w/ Question Rephrasing Decoding
 
 ### PROJECT
 
